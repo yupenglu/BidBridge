@@ -1,4 +1,4 @@
 BidBridge
 =========
 
-CIT-HW03
+Simple scala program.
